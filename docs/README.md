@@ -15,4 +15,3 @@ actions:
   This is a test site built on VuePress. Editing happens via DecapCMS, and it's hosted on Netlify.
 </div>
 </div>
-</div>
